@@ -1,0 +1,300 @@
+
+.container {
+    width: 1150px;
+    height: 690px;
+    margin-left: 180px;
+    margin-top: 57px;
+}
+
+p {
+    color: #5863E3;
+    font-size: 17px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 7px;
+    padding-left: 4px;
+}
+
+h6 {
+    color: #000;
+    font-size: 49px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.div1 {
+    width: 380px;
+}
+
+.textinput {
+    display: flex;
+    flex-direction: row;
+    margin-top: 57px;
+}
+
+.chawera {
+    width: 750px;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+}
+
+textarea {
+    width: 100%;
+    height: 295px;
+    resize: none;
+    padding: 23px 21px;
+    color: #99999A;
+    font-size: 14px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    background: rgba(212, 211, 211, 0.30);
+    border-style: solid;
+    border-color: #d4d3d4;
+    border-width: 3px;
+}
+
+.data {
+    width: 370px;
+    margin-left: 25px;
+}
+
+input[type=text], input[type=email] {
+    width: 370px;
+    height: 59px;
+    color: #99999A;
+    border-color: #d4d3d4;
+    border-width: 3px;
+    background: rgba(212, 211, 211, 0.30);
+    border-style: solid;
+    font-size: 14px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    padding: 21px 19px;
+    margin-bottom: 20px;
+}
+
+input[type=submit] {
+    width: 100%;
+    height: 59px;
+    background: #5968F4;
+    border-color: #5968F4;
+    color: #FBFBFF;
+    font-size: 14px;
+    font-family: Helvetica;
+    font-weight: 700;
+    border-style: solid;
+}
+
+.contactinfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 51px;
+}
+
+
+.icons {
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    background-color: #5968F4;
+}
+
+.mail {
+    margin: 19px 14px;
+}
+.Phone {
+    margin: 13px 9px;
+}
+.Loc {
+    margin: 16px 23px;
+}
+
+
+
+.emails {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.Phones {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.Location {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+a {
+    color: #99999A;
+    font-size: 15px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+h5 {
+    color: #4E4D54;
+    font-size: 20px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 16px;
+}
+
+
+
+
+.div2 {
+    width: 548px;
+    margin-left: 180px;
+    margin-top: 74px;
+}
+
+.Photos {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 60px;
+}
+
+
+
+footer {
+    width: 100%;
+    height: 372px;
+    background: #000;
+    margin-top: 39px;
+}
+
+.links h1 {
+    color: #FFF;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 32px;
+}
+.privacy h1 {
+    color: #FFF;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 32px;
+}
+
+.contactinfo h1 {
+    color: #FFF;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 32px;
+}
+
+.leftpart h1 {
+    color: #FFF;
+    font-size: 26px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 23px;
+}
+
+h4 {
+    color: #99999A;
+    font-size: 17px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 27px;
+}
+
+
+h2 {
+    color: #5863E3;
+    font-size: 17px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 9px;
+}
+
+.contactinfo p {
+    color: #FFF;
+    font-size: 17px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 10px;
+}
+.contactinfo a {
+    color: #FFF;
+    font-size: 17px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 14px;
+}
+
+.contactinfo img {
+    width: 27px;
+    height: 22px;
+    margin-right: 12px;
+}
+
+.footerflex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 63px;
+}
+
+.leftpart {
+    width: 295px;
+}
+
+.links {
+    width: 125px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.privacy {
+    width: 92px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+.contactinfo {
+    width: 250px;
+}
+
+.N1, .N2, .N3 {
+    display: flex;
+    margin-bottom: 15px;
+}

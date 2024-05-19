@@ -1,0 +1,145 @@
+
+
+@media (max-width: 948px) {
+    .textinput {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .data {
+        padding-top: 25px;
+        margin-left: 0;
+        padding-left: 115px;
+    }
+    textarea {
+        width: 600px;
+    }
+    .div2 {
+        padding-top: 70px;
+    }
+    .contactinfo {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-top: 200px;
+    }
+    .Photos {
+        display: flex;
+        flex-direction: row;
+        width: 700px;
+        height: 200px;
+        margin-left: 90px;
+        margin-top: 250px;
+        justify-content: flex-start;
+    }
+    .Photos img {
+        padding-right: 51px;
+    }
+
+    .emails, .Phones, .Location {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        width: 250px;
+    }
+    .wholefooter h2, h4, h1, h3{
+        font-size: 12px;
+        display: flex;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width:780px) {
+    .data {
+        padding-left: 0;
+    }
+    textarea {
+        width: 450px;
+    }
+    .div2 h6{
+        font-size: 24px;
+    }
+    .contactinfo {
+        margin-top: 110px;
+    }
+    .contactinfo a, h5 {
+        font-size: 12px;
+    }
+    .icons {
+        width: 42px;
+        height: 42px;
+        border-radius: 50%;
+    }
+    .contactinfo img {
+        height: 25px;
+        width: 25px;
+    }
+    .mail, .Loc {
+        margin: 9px 9px;
+    }
+    .Phone {
+        margin: 9px;
+    }
+    .emails, .Location {
+        width: 190px;
+    }
+    .Phones {
+        width: 130px;
+        padding-left: 10px;
+        margin-right: 10px;
+    }
+    .Photos {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-top: 200px;
+        margin-left: 150px;
+    }
+    .Photos img {
+        padding-right: 51px;
+        width: 200px;
+        height: 150px;
+    }
+
+    .footerflex {
+        display: flex;
+        flex-wrap: wrap;
+    }
+ }
+
+ @media (max-width: 650px) {
+    footer {
+        height: 100%;
+    }
+    .footerflex {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .leftpart, .links, .privacy, .contactinfo {
+        margin-bottom: 50px;
+    }
+
+    .Photos {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-top: 200px;
+        margin-left: 50px;
+    }
+    .Photos img {
+        padding-right: 51px;
+        width: 200px;
+        height: 150px;
+    }
+    .container, .div2 {
+        margin-left: 50px;
+    }
+ }
